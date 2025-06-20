@@ -1,0 +1,1 @@
+.env encryption_key.key librebot_data.db *.enc pycache/ *.pyc
