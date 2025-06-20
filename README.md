@@ -24,30 +24,30 @@ Bezpieczny na 100: Lokalna baza i szyfrowanie – nikt cię nie zhakuje!
 
 Jak odpalić? 🚀
 
-Sklonuj repo:
-git clone https://github.com/Wiko-haslo/LibreBot.git
+1. Sklonuj repo:
+   git clone https://github.com/Wiko-haslo/LibreBot.git
 
 
-Ustaw .env:
+2. Ustaw .env:
 
-Stwórz .env z tokenem z Discord Developer Portal.
-Przykład: DISCORD_TOKEN=twój_sekret (nie wrzucaj na GitHub, ziom!).
-
-
-Zainstaluj stuff:
-pip install -r requirements.txt
+   Stwórz .env z tokenem z Discord Developer Portal.
+   Przykład: DISCORD_TOKEN=twój_sekret (nie wrzucaj na GitHub, ziom!).
 
 
-Uruchom:
-
-GUI: python gui.py – konfiguruj jak król!
-Bot: python librebot.py – lub z GUI.
+3. Zainstaluj stuff:
+   pip install -r requirements.txt
 
 
-Skonfiguruj:
+4. Uruchom:
 
-W GUI ustaw kanały, role, tickety.
-Na Discordzie: /setup, /shop – i jazda!
+   GUI: python gui.py – konfiguruj jak król!
+   Bot: python librebot.py – lub z GUI.
+
+
+5. Skonfiguruj:
+
+   W GUI ustaw kanały, role, tickety.
+   Na Discordzie: /setup, /shop – i jazda!
 
 
 
@@ -82,7 +82,8 @@ Na Discordzie: /ticket_setup, /shop – i dominuj!
 Testuj tickety, gry, moderację – pełen sztos!
 
 Dodaj LibreBot na serwer! 🎉
-Chcesz go u siebie? Kliknij:https://discord.com/oauth2/authorize?client_id=1385358410446536775&permissions=8&integration_type=0&scope=bot+applications.commands\Uwaga: Nie zawsze będzie aktywny, bo hosting mnie dobija finansowo – działam lokalnie, ziom! 😅
+Chcesz go u siebie? Kliknij: https://discord.com/oauth2/authorize?client_id=1385358410446536775&permissions=8&integration_type=0&scope=bot+applications.commands\ Uwaga: Nie zawsze będzie aktywny, bo hosting mnie dobija finansowo – działam lokalnie, ziom! 😅
+
 Debug? 🐛
 
 Bot nie odpala? Sprawdź token i permisje (wysyłanie, embedy).
