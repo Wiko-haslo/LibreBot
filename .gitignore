@@ -1,1 +1,5 @@
-.env encryption_key.key librebot_data.db *.enc pycache/ *.pyc
+.env
+encryption_key.key
+librebot_data.db
+*__pycache__*
+*.pyc
